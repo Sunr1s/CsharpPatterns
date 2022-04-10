@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Observer_oodp_3/1.0.0": {
+        "runtime": {
+          "Observer_oodp_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Observer_oodp_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
